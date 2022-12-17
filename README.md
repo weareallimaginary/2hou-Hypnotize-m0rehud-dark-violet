@@ -1,1 +1,1 @@
-# 2hou-quake-Hypnotize-m0rehud-dark-violet
+# 2hou-Hypnotize-m0rehud-dark-violet
