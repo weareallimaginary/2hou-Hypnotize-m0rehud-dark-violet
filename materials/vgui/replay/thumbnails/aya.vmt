@@ -2,5 +2,4 @@
 {
 	"$basetexture" "vgui/replay/thumbnails/aya"
 	"$translucent" 1
-	"$alpha" "0.5"
 }

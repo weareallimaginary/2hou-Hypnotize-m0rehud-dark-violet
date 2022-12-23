@@ -238,7 +238,6 @@ Scheme
 		{
 			"offset" 								"0 0"
 			"color" 								"Blank"
-
 			"inset" "0 0 0 0"
    			"backgroundtype" "2"
 		}
@@ -247,18 +246,16 @@ Scheme
 		{
 			"offset" 								"0 0"
 			"color" 								"Blank"
-
 			"inset" "0 0 0 0"
-   			 "backgroundtype" "2"
+   			"backgroundtype" "2"
 		}
 
 		ButtonDepressedBorder
 		{
 			"offset" 								"0 0"
 			"color" 								"Blank"
-
 			"inset" "0 0 0 0"
-   			 "backgroundtype" "2"
+   			"backgroundtype" "2"
 		}
 
 		ComboBoxBorder

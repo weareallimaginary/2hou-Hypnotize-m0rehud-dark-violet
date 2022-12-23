@@ -838,11 +838,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"										"9120"//c-140 c-80
-		"ypos"										"c57" //c107 r157
+		"xpos"										"c-100"//c-140 c-80
+		"ypos"										"r37" //c107 r157
 		"zpos"		"-4"
-		"wide"		"0"
-		"tall"		"0"
+		"wide"		"44"
+		"tall"		"44"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"		"../vgui/replay/thumbnails/aya"
