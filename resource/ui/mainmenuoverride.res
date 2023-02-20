@@ -346,7 +346,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"FriendsContainer"
 		"xpos"										"0"
-		"ypos"										"19"//"r18"
+		"ypos"										"25"//"r18"
 		"zpos"										"6"
 		"wide"										"f0"
 		"tall"										"18"
@@ -1934,5 +1934,4 @@
 			"depressedFgColor_override" 			"Black"
 		}
 	}
-	
 }
