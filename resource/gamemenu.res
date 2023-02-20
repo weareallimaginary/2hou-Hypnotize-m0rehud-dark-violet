@@ -3,7 +3,7 @@
 	"Version"
 	{
 		"label" 									"東方hud"
-		"command" 									"engine showconsole; echo >Edited Hypnotize m0rehud, thanks m0re, Hypnotize, DrinkinTea, quickkennedy and rest of HUDS.TF discord"
+		"command" 									"engine showconsole"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
